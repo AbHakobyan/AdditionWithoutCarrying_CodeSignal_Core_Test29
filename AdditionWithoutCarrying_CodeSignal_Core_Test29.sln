@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionWithoutCarrying_CodeSignal_Core_Test29", "AdditionWithoutCarrying_CodeSignal_Core_Test29\AdditionWithoutCarrying_CodeSignal_Core_Test29.csproj", "{B3DE6E09-2000-4E1A-901E-69BCC57CDD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DE6E09-2000-4E1A-901E-69BCC57CDD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DE6E09-2000-4E1A-901E-69BCC57CDD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DE6E09-2000-4E1A-901E-69BCC57CDD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DE6E09-2000-4E1A-901E-69BCC57CDD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21616CE7-1315-4B0B-A878-94FF795D1494}
+	EndGlobalSection
+EndGlobal
